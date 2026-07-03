@@ -32,8 +32,8 @@ I am a passionate developer and maker who loves turning ideas into reality, whet
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=radenadrianrp-sys&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radenadrianrp-sys&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raden-adrian-rp&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raden-adrian-rp&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </div>
 
 ---
